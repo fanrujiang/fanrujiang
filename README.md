@@ -12,7 +12,7 @@ Blog: https://www.fanliu.top/
 - 🔭 上班搬砖ing
 - 🌱 学习中ing
 - 🤔 掉头发ing
-- ⚡ 了解Java, Spring, JavaScript, Vue.js
+- ⚡ 了解Java, Spring, Flutter, JavaScript, Vue.js
 
 
 
