@@ -14,6 +14,7 @@ Blog: https://www.fanliu.top/
 - 🤔 掉头发ing
 - ⚡ 了解Java, Spring, Flutter, JavaScript, Vue.js
 
+### 😝 点击访问 --->[FanFanの博客 ](https://www.fanliu.top/)
 
 
 <div style="display: flex; justify-content: space-between;"> 
